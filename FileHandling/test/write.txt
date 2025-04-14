@@ -1,0 +1,2 @@
+Today is tuesday and we are into file handling session
+Appending the text into existing file

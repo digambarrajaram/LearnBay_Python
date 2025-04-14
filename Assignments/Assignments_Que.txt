@@ -1,0 +1,30 @@
+1. Palindrome
+2. Count of words or characters in string
+3. find index of occurence of words or characters
+4. area of circle,sqaure,rectangle using single constructor
+5. Type casting
+6. Inheritance example
+7. 
+ create 1 class as Employee in which we need to do following operations
+ class variables
+ -name
+ -salary
+ -bonus
+ -leaves
+ -dept
+
+ Hint 
+ class Employee as abstract 
+ class Salary(Employee) --> create the object of this class 
+ in this class we will calculate all the salary after bonus and salary after leaves taken and display method also
+
+Questions 
+ a) calculate the slaray of the employee and calculate the new salaray of the employee after having bonus
+ b) calculate the strict_salary (means deduacting the number of leaves taken that month ) (assume salary_per_day = 1000)
+ strict_salary = salary - (salary_per_day * leaves)
+ c) display method should print all the class variables
+
+8. create a File A.txt and write some content into it and then create a duplicate B.txt that will have the same contenet as A.txt file. also rename A.txt file to A_Backup.txt. without shutil method
+
+9. Implementation of exception handling in json read and write method.
+
